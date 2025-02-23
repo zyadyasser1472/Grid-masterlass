@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "open sans", sans-serif;
+    line-height: 1.625rem;
+    font-size: 0.875rem;
+}
+h1 {
+    font-family: Arvo, sans-serif;
+    font-size: 3rem;
+    line-height: 3.75rem;
+    font-weight: 400;
+}
+ 
+h3 {
+    font-family: Arvo, sans-serif;
+    font-size: 1.375rem;
+    line-height: 2rem;
+    font-weight: 400;
+}
+
+p {
+    font-family: Montserrat, sans-serif;
+    color: #9fa3a7;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+}  
+
+a {
+    color: #27b9c2;
+    text-decoration: underline;
+}
+img {
+    width: 100%;
+    display: block;
+}
+strong {
+    font-weight: bold;
+}
+
